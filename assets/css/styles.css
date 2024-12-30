@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #f79595, #feb47b);
+    color: #520101;
+}
+.navbar {
+    background-color: linear-gradient(to right, #f79595, #feb47b);
+}
+.text-blue {
+    color: #007bff;
+}
+.fade-in {
+    animation: fadeIn 2s;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+#profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
