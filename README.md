@@ -12,7 +12,7 @@
 
 
 <p>🌟Soy una Ingeniera en Informática titulada en 2024 y Técnica en Análisis de Sistemas.</p>
-<P>🌱Me apasiona la tecnología y actualmente estoy cursando un bootcamp de Ruby on Rails Full Stack Developer en Talento Digital para Chile, con el objetivo de fortalecer mis habilidades de programación y ampliar mis conocimientos en desarrollo web.</P>        
+<P>🌱Me apasiona la tecnología.      
 
 
 <h2>🖥️ Experiencia profesional</h2>
