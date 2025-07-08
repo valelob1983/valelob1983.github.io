@@ -11,7 +11,7 @@
 <h2> Hola 👋, soy Valesca Andrea Lobos Riquelme</h2>
 
 
-<p>🌟Soy una Ingeniera en Informática titulada en 2024 y Técnica en Análisis de Sistemas.</p>
+<p>🌟Soy Ingeniera en Informática titulada en 2024 y Técnica en Análisis de Sistemas.</p>
 <P>🌱Me apasiona la tecnología.      
 
 
